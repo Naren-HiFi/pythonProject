@@ -1,5 +1,5 @@
 # TODO: 1. Create the coffee menu that includes the costs and resources that are needed to prepare coffee
-
+# Complete Code
 
 MENU = {
     "espresso": {
